@@ -2,6 +2,7 @@
 # PENDIENTE DE TERMINAR
 # Análisis y Visualización del Informe de la Felicidad Mundial de las Naciones Unidas en 2023
 
+<img src="https://github.com/jose-luis666/proyecto_dashboard/blob/main/IMG/Dashboard.png" alt="Dashboard">
 
 # Temática
 
